@@ -11,6 +11,8 @@ Datasætkataloget understøtter via udvidelsen ckanext-dcat DCAT-AP. DCAT-AP er 
 ## Overordnet arkitektur  (UDKAST)
 ![Overordnet arkitektur](https://github.com/digst/datasetcatalogue/blob/master/v.1/FDADatasætkataloget-v1.1(ArchiMate).png "ArchiMate Diagram")
 
+## Datamodellen DCAT-AP-DK 1.1 (UDKAST)
+
 ## Sammenhænge med andre kataloger (UDKAST)
 ![Sammenhænge](https://github.com/digst/datasetcatalogue/blob/master/v.1/FDADatasætkataloget-v1.1sammenhænge(ArchiMate).png "ArchiMate Diagram")
 
