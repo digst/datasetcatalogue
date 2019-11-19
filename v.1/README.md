@@ -2,7 +2,7 @@
 
 FDA Datasætkataloget er en løsning der realiserer behovet for et fællesoffentligt katalog over datasæt og understøttelse af direktivet om åbne data og den offentlige sektors informationer (PSI-direktivet). 
 
-Datasætkatalogets primære applikationskomponent udgøres pt. af en open-source dataportalplatform, CKAN, som i sin standardimplementering med en tilhørende CKAN-database udstiller en brugergrænseflade (CKAN GUI) samt et programmeringsinterface (CKAN API) (se: https://ckan.org/). Brugergrænsefladen er også tilpasset dansk anvendelse og løsningen integrerer med NemLog-in ifm. brugerrettighedsstyring.
+FDA Datasætkatalogets primære applikationskomponent udgøres i version 1.0 af en open-source dataportalplatform, CKAN, som i sin standardimplementering med en tilhørende CKAN-database udstiller en brugergrænseflade (CKAN GUI) samt et programmeringsinterface (CKAN API) (se: https://ckan.org/). Brugergrænsefladen er også tilpasset dansk anvendelse og løsningen integrerer med NemLog-in ifm. brugerrettighedsstyring.
 
 Standardudgaven er i den danske løsning udvidet med en række såkaldte extensions med plugins, som tilføjer ny funktionalitet til løsningen, fx. en række høstere der gør det muligt at hente metadatabeskrivelser fra eksempelvis andre CKAN-instanser, geodataportaler (ISO19139) eller fra et DCAT-AP-kompatible datadump. Den danske tilpasning er også implementeret via en custom extension. Yderligere extensions som dog ikke er illustereret herunder er hentet fra https://extensions.ckan.org/.
 
