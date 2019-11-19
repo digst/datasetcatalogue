@@ -10,7 +10,7 @@ Datasætkataloget understøtter via udvidelsen ckanext-dcat DCAT-AP. DCAT-AP er 
 
 ## Datamodellen DCAT-AP-DK 1.1 (UDKAST)
 DCAT-AP-DK er en anvendelsesprofil til beskrivelse af datasæt i det fællesoffentlige datasætkatalog.
-Se: https://github.com/digst/DCAT-AP-DK/tree/master/v.1
+Se: https://github.com/digst/DCAT-AP-DK/
 
 ## Overordnet arkitekturbeskrivelse  (UDKAST)
 ![Overordnet arkitektur](https://github.com/digst/datasetcatalogue/blob/master/v.1/FDADatasætkataloget-v1.1(ArchiMate).png "ArchiMate Diagram")
