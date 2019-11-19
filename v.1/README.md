@@ -8,4 +8,7 @@ Standardudgaven er i den danske løsning udvidet med en række såkaldte extensi
 
 Datasætkataloget understøtter via udvidelsen ckanext-dcat DCAT-AP. DCAT-AP er EU-Kommissionens anvendelsesprofil til beskrivelse af datasæt i datakataloger, og specifikationen har til formål at standardisere og etablere sammenhæng mellem dataportaler i de europæiske medlemslande. Udvidelsen ckanext-dcat understøtter pt. DCAT-AP 1.1. DCAT-AP 1.1 er også blevet profileret til anvendelse i dansk administrativ kontekst i DCAT-AP-DK 1.1, som indfører enkelte danske tilføjelser og begrænsninger.
 
-FDADatasætkataloget-v1.1(ArchiMate).png
+## Overordnet arkitektur
+![Overordnet arkitektur](https://github.com/digst/datasetcatalogue/blob/master/v.1/FDADatasætkataloget-v1.1(ArchiMate).png "ArchiMate Diagram")
+
+
