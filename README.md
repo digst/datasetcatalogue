@@ -13,10 +13,10 @@ DCAT-AP-DK er en anvendelsesprofil til beskrivelse af datasæt i det fællesoffe
 Se: https://github.com/digst/DCAT-AP-DK/
 
 ## Overordnet arkitekturbeskrivelse  (UDKAST)
-![Overordnet arkitektur](https://github.com/digst/datasetcatalogue/blob/master/v.1/FDADatasætkataloget-v1.1(ArchiMate).png "ArchiMate Diagram")
+![Overordnet arkitektur](https://github.com/digst/datasetcatalogue/blob/master/FDADatasætkataloget-v1.1(ArchiMate).png "ArchiMate Diagram")
 
 ## Sammenhænge med andre kataloger (UDKAST)
-![Sammenhænge](https://github.com/digst/datasetcatalogue/blob/master/v.1/FDADatasætkataloget-v1.1sammenhænge(ArchiMate).png "ArchiMate Diagram")
+![Sammenhænge](https://github.com/digst/datasetcatalogue/blob/master/FDADatasætkataloget-v1.1sammenhænge(ArchiMate).png "ArchiMate Diagram")
 
 
 
